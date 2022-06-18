@@ -12,7 +12,7 @@ h5
 form input[type=text]
 {
     border-radius: 10px;
-    width: 40%;
+    width: 35%;
    padding: 12px;
    
    
@@ -94,8 +94,9 @@ label
    width: 30%;
    float: left;
   
-
+margin-right: 7px;
 }
+
 .country select
 {
     border-radius: 10px;
@@ -106,7 +107,7 @@ label
 
 .postalcode input[type=text]
 {
-    width : 20%
+    width : 20%;
 }
 .box
 {
